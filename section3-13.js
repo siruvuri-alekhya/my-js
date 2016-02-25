@@ -36,3 +36,4 @@ console.log("sub: "+ (2-"3"));
 //CHeck out the operator precedence in mozilla website
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
+console.log((2+3)*(5+7));
